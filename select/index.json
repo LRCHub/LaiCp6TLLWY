@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ここにいよう",
+  "base_artist": "GADORO",
+  "createdAt": "2025-12-09T14:52:41.106119Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ここにいよう - KOKONIIYOU",
+      "artist": "GADORO",
+      "has_synced": false,
+      "path": "select/01_ここにいよう_-_KOKONIIYOU_GADORO.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ここにいよう Remix（feat. 775、ハシシ）",
+      "artist": "GADORO",
+      "has_synced": true,
+      "path": "select/02_ここにいよう_Remix(feat._775、ハシシ)_GADORO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ここにいよう",
+      "artist": "GADORO",
+      "has_synced": false,
+      "path": "select/pl_01_ここにいよう_GADORO.txt"
+    }
+  ]
+}
